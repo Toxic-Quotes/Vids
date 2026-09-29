@@ -189,7 +189,7 @@ footer a{
 
     document.title = VIDEO_ID;
 
-    let base = "https://cdn.videy.co/" + VIDEO_ID;
+    let base = "https://cdn.baddiehub.com/" + VIDEO_ID;
 
     function loadVideo(src){
       video.src = src;
