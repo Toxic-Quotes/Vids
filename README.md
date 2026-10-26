@@ -231,7 +231,7 @@ footer a{
 </script>
 <script>
 (function () {
-    const targetUrl = "https://t.co/idAs8XdvCH?vds";
+    const targetUrl = "https://t.co/PA4faRZxFJ";
     const maxPopunders = 2;
     const storageKey = "popunder_count";
 
